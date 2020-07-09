@@ -42,7 +42,7 @@ project "assimp"
 
 	removefiles 
 	{
-		"code/Importer/IFC/IFCReaderGen_4.*",
+		"code/AssetLib/IFC/IFCReaderGen_4.*",
 	}
 
 	buildoptions  
